@@ -3,7 +3,7 @@
 
 - :heart: **I'm always love Learning new Stuff**
 
-- You can reach me at: **danellsonmiranda24@gmail.com**
+- 📧:You can reach me at: **danellsonmiranda24@gmail.com**
 
 - :leaves: **I’m curious about everything I do. I enjoy nature and books.**
 
