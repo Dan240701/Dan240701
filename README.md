@@ -2,12 +2,11 @@
 <h3 align="center">SYSTEM ENGINEER, WEB DEVELOPER</h3>
 
 -  **I'm always Learning new Stuff**
-
+- Portoflio: https://portolio-dan.netlify.app/
 -  You can reach me at: **danellsonmiranda24@gmail.com**
-
 - I’m a really passionate software developer;D
 
-- Portoflio: https://portolio-dan.netlify.app/
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
