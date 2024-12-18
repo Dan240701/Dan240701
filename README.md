@@ -1,11 +1,11 @@
 <h1 align="center">HI :wave: I´M DANELLSON MIRANDA</h1>
 <h3 align="center">SYSTEM ENGINEER, WEB DEVELOPER</h3>
 
-- :heart: **I'm always Learning new Stuff**
+-  **I'm always Learning new Stuff**
 
-- 📧 You can reach me at: **danellsonmiranda24@gmail.com**
+-  You can reach me at: **danellsonmiranda24@gmail.com**
 
-- :leaves: **I’m a really passionate software developer;D**
+- I’m a really passionate software developer;D
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
