@@ -1,5 +1,5 @@
 <h1 align="center">Hi :wave:</h1>
-<h3 align="center">Software dev/h3>
+<h3 align="center">Software dev</h3>
 
 - My site: **https://portolio-dan.netlify.app/**
 - Reach me at: **danellsonmiranda24@gmail.com*
