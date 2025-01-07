@@ -1,4 +1,4 @@
-<h3 align="center">Hi :wave:, I'm Danellson and I are a Software dev</h3>
+<h3 align="center">Hello I'm Danellson and i are a software dev :wave:</h3>
 
 - My site: **https://portolio-dan.netlify.app/**
 - Reach me at: **danellsonmiranda24@gmail.com*
