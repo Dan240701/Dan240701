@@ -1,6 +1,6 @@
 ###
 
-<h3 align="center">I'm Danellson, and I am a software engineer.:wave:</h3>
+<h3 align="center">I'm Danellson, and I am a software engineer. :wave:</h3>
 
 ### 
 
