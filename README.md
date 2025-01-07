@@ -1,10 +1,9 @@
 <h3 align="center">Hello I'm Danellson and i are a software dev :wave:</h3>
-###
 - My site: **https://portolio-dan.netlify.app/**
 - Reach me at: **danellsonmiranda24@gmail.com*
-###
+
 <h2 align="center">💻 Tech Stack</h2>
-###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="70" />
@@ -18,7 +17,7 @@
   <img width="70" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" height="40" alt="Angularjs" />
   <img width="70" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="Angularjs"/>
   <img width="70" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="70" />
